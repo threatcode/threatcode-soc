@@ -1,6 +1,6 @@
-# Security Onion Console
+# Threat Code Console
 
-Security Onion Console is a customized fork of Threatsensor. This product provides the new primary user interface for the Security Onion product suite in addition to managing the environment's security sensors, as was the original intention of Threatsensor. The following information is from the original Threatsensor readme which is currently still applicable:
+Threat Code Console is a customized fork of Threatsensor. This product provides the new primary user interface for the Threat Code product suite in addition to managing the environment's security sensors, as was the original intention of Threatsensor. The following information is from the original Threatsensor readme which is currently still applicable:
 
 # Threatsensor
 

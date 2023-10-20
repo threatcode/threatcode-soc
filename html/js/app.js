@@ -386,7 +386,7 @@ $(document).ready(function() {
       updateTitle() {
         var title = "";
         title += this.isAttentionNeeded() ? "! " : "";
-        title += "Security Onion";
+        title += "Threat Code";
         if (this.subtitle && this.subtitle.length > 0) {
           title += " - " + this.subtitle;
         }
