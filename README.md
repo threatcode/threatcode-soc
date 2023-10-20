@@ -19,17 +19,6 @@ Only version 2 of the GNU GPL license applies to Threatsensor. No other GNU GPL 
 
 See [LICENSE](https://raw.githubusercontent.com/threatcode/threatcode-soc/master/LICENSE) for more information.
 
-## Screenshots
-
-Sensor Status List
-![Sensor list](https://raw.githubusercontent.com/threatcode/threatcode-soc/master/screenshots/threatsensor-sensors.png)
-
-Job Status List
-![Job list](https://raw.githubusercontent.com/threatcode/threatcode-soc/master/screenshots/threatsensor-jobs.png)
-
-Job Details and Results
-![Job Details and Results](https://raw.githubusercontent.com/threatcode/threatcode-soc/master/screenshots/threatsensor-job.png)
-
 ## Design
 
 Threatsensor, at its core, is a job queueing and dispatch system. It is targetted specifically towards the computer security industry, primarily due to the job's focus on network concepts. For example, when creating a job, the source address and port, destination address and port, and beginning and ending time range can be specified. But additional, untyped job parameters can also be specified, which allows a job to target systems outside of the security realm.
